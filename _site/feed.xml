@@ -6,14 +6,5 @@
     <link>http://alicecai.github.io</link>
     <atom:link href="http://alicecai.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
-      <item>
-        <title>democracy</title>
-        <description>
-</description>
-        <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
-        <link>http://alicecai.github.io/2014/02/28/democracy/</link>
-        <guid isPermaLink="true">http://alicecai.github.io/2014/02/28/democracy/</guid>
-      </item>
-    
   </channel>
 </rss>

@@ -1,6 +1,5 @@
 ---
 layout: post
 title: democracy
-published: true
-
+published: false
 ---
