@@ -3,8 +3,8 @@
   <channel>
     <title>Hi there.</title>
     <description></description>
-    <link>https://alicecai.github.io/about</link>
-    <atom:link href="https://alicecai.github.io/about/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://alicecai.github.io</link>
+    <atom:link href="https://alicecai.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

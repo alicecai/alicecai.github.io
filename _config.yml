@@ -1,13 +1,12 @@
-title:            Hi there.
-url:              https://alicecai.github.io/about
+title:            about alice
+url:              https://alicecai.github.io
 permalink:        pretty
-pygments:         true
+highlighter:      pygments
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
 google_analytics: UA-45273196-2
 timezone:         New York 
 paginate: 5
-links: 
-  - name:         About
-    url:          /about
+gems: 
+  - jemoji
