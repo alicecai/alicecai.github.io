@@ -1,6 +1,6 @@
-# blogblogblog
+# #blog
 
-A personal site on its way to becoming a microblog, maybe.
+Personal site, run on Jekyll.
 
 ## License
 
