@@ -107,7 +107,7 @@ hr {
     transition: 0.5s linear;
     font-weight: 700;
     margin: 0;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.5;
     color: #48a; }
   .posts .post-link:hover .post-title {
