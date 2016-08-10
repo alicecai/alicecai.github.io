@@ -8,5 +8,3 @@ rdiscount:
 google_analytics: UA-45273196-2
 timezone:         New York 
 paginate: 5
-gems: 
-  - jemoji

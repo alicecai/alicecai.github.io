@@ -8,24 +8,25 @@ body {
   background-color: #1C1F21; }
 
 a {
-  color: #7ad;
+  color: #f0d8d8;
   -webkit-transition: 0.5s linear;
   -moz-transition: 0.5s linear;
   -ms-transition: 0.5s linear;
   -o-transition: 0.5s linear;
   transition: 0.5s linear; }
   a:hover {
-    color: #8cf;
-    text-shadow: 0 0 4px rgba(255, 255, 255, 0.5); }
+    color: #d8c2c2;
+    text-decoration: underline; }
+  }
 
 b, strong, h3, h4, h5 {
   font-weight: 700;
   color: #efefeb; }
 
 h1 {
-  font-size: 21px;
-  font-weight: 700;
-  margin: 0 0 20px;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 15px;
   line-height: 1em;
   color: #efefeb; }
 
@@ -91,7 +92,7 @@ hr {
       color: #eee; }
 
 .posts .post {
-  vertical-align: top;
+  vertical-align: right;
   margin-right: 10px;
   margin-bottom: 10px; }
   .posts .post:last-child .post-link {
