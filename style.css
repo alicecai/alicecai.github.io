@@ -1,0 +1,46 @@
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  text-transform: lowercase;
+  color:#38396c;
+  margin: 2em; 
+}
+
+h1 {
+  font-style: normal;
+  font-weight:bold;
+}
+
+a:link{
+    color: #38396c;
+    text-decoration: none;
+}
+
+a:active { 
+    color: #9bc9d4;
+}
+
+a:hover { 
+    color: #9bc9d4;
+}
+
+.hiddenimg {
+  display: none;
+}
+
+.hiddentxt {
+  font-weight: bold;
+  color: inherit;
+}
+
+.hiddentxt a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.hiddentxt a:hover{
+  color: #9bc9d4;
+}
+
+.hiddentxt:hover ~ .hiddenimg {
+  display: block;
+}
