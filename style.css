@@ -1,8 +1,16 @@
+@font-face {
+    font-family: VT323;
+    src: url("/VT323.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  text-transform: lowercase;
-  color:#38396c;
-  margin: 2em; 
+    font-family: 'VT323', sans-serif;
+    text-transform: lowercase;
+    font-size: 1.8em;
+    color:#1A181B;
+    margin: 2em; 
 }
 
 h1 {
@@ -11,34 +19,36 @@ h1 {
 }
 
 a:link{
-    color: #38396c;
+    color: #1A181B;
     text-decoration: none;
 }
 
 a:active { 
-    color: #9bc9d4;
+    color: #B9D6F2;
 }
 
 a:hover { 
-    color: #9bc9d4;
+    color: #B9D6F2;
 }
 
 .hiddenimg {
   display: none;
+  padding-top: 0.8em; 
+  padding-bottom: none;
 }
 
 .hiddentxt {
-  font-weight: bold;
+  font-weight: normal;
   color: inherit;
 }
 
 .hiddentxt a {
   color: inherit;
-  text-decoration: inherit;
+  text-decoration: underline wavy #B9D6F2;
 }
 
 .hiddentxt a:hover{
-  color: #9bc9d4;
+  color: #B9D6F2;
 }
 
 .hiddentxt:hover ~ .hiddenimg {
