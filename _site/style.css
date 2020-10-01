@@ -1,16 +1,17 @@
 @font-face {
-    font-family: VT323;
-    src: url("/VT323.ttf") format('truetype');
+    font-family: kleyn-regular;
+    src: url("/assets/kleyn-regular.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'VT323', sans-serif;
+    font-family: 'kleyn-regular', sans-serif;
     text-transform: lowercase;
     font-size: 1.8em;
     color:#1A181B;
     margin: 2em; 
+    max-width: 560px;
 }
 
 h1 {
@@ -33,7 +34,7 @@ a:hover {
 
 .hiddenimg {
   display: none;
-  padding-top: 0.8em; 
+  padding-top: 0.6em; 
   padding-bottom: none;
 }
 
