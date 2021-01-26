@@ -1,14 +1,14 @@
 @font-face {
-    font-family: kleyn-regular;
-    src: url("/assets/kleyn-regular.ttf") format('truetype');
+    font-family: VT323;
+    src: url("/assets/VT323.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'kleyn-regular', sans-serif;
+    font-family: 'VT323', sans-serif;
     text-transform: lowercase;
-    font-size: 1.8em;
+    font-size: 1.4em;
     color:#1A181B;
     margin: 2em; 
     max-width: 560px;

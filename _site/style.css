@@ -8,9 +8,9 @@
 body {
     font-family: 'VT323', sans-serif;
     text-transform: lowercase;
-    font-size: 1.4em; 
+    font-size: 1.4em;
     color:#1A181B;
-    margin: 2em;
+    margin: 2em; 
     max-width: 560px;
 }
 
