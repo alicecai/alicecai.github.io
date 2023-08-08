@@ -28,6 +28,7 @@ img {
 a:link{
     color: #1A181B;
     text-decoration: underline wavy #B9D6F2;
+    -webkit-text-decoration: underline wavy #B9D6F2;
 }
 
 a:hover { 
