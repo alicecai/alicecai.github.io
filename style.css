@@ -30,11 +30,15 @@ a:link{
     text-decoration: underline wavy #B9D6F2;
 }
 
-a:active { 
+a:hover { 
     color: #B9D6F2;
 }
 
-a:hover { 
+a:focus { 
+    color: #B9D6F2;
+}
+
+a:active { 
     color: #B9D6F2;
 }
 
