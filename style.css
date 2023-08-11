@@ -27,8 +27,8 @@ img {
 
 a:link{
     color: #1A181B;
-    text-decoration-style: underline wavy #B9D6F2;
-    -webkit-text-decoration-style: underline wavy #B9D6F2;
+    text-decoration: underline wavy #B9D6F2;
+    -webkit-text-decoration: underline wavy #B9D6F2;
 }
 
 a:hover { 
@@ -52,7 +52,7 @@ a:active {
 .hiddentxt {
   font-weight: normal;
   color: inherit;
-  text-decoration-style: underline wavy #B9D6F2;
+  text-decoration: underline wavy #B9D6F2;
 }
 
 .hiddentxt a {
